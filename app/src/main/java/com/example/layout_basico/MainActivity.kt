@@ -92,11 +92,11 @@ fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) 
 
 @Preview(showBackground = true)
 @Composable
-fun BirthdayCardPreview() {
+fun Layout_basicoPreview() {
     Layout_basicoTheme {
         GreetingImage(
-            message = "Happy Birthday Sam!",
-            from = "From Emma"
+          message = getString(R.string.ds_ams),
+          from = getString(R.string.signature_text)
         )
     }
 }

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc6ff1&size=35&center=true&vCenter=true&width=1000&lines=Primeiro+layout+feito+com+kotlin;Layout+simples+com+imagem+e+textos)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc6ff1&size=35&center=true&vCenter=true&width=1000&lines=Primeiro+layout+feito+com+kotlin;Layout+simples+com+imagem+e+textos)](https://git.io/typing-svg)
 
 Curso disponibilizado em https://developer.android.com/ feito com o intuito de aprender conceitos introdutórios de programação em Kotlin para para a criação de aplicativos Android em Kotlin.
 
